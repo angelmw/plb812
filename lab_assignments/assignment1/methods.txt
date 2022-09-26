@@ -1,0 +1,7 @@
+1. I downloaded Phytozome Solanum tuberosum 4.03 files first. Later I deleted them and downloaded 6.1 instead. I copied the command line download and entered it into my plb812/data directory.
+I unzipped files:
+unzip <file.zip>
+
+2. SRR files for Owacja SRR5448223-SRR5448235 were downloaded and converted to gzip files:
+prefetch <SRRfile>
+fastq-dump --gzip --split-3 <file.sra>
