@@ -1,0 +1,6 @@
+For my script, I used the same header lines you had with the addition of lines that will give me email notifications.
+I exported the PATH and LD_LIBRARY_PATH
+I used fastqc for the fastq files and outputted them into my assignment2 directory.
+
+I then copied the html files into another folder where I store data and moved the zip files into that folder as well.
+Moving the files around was not part of my script.  
