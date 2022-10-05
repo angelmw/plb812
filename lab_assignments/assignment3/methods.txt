@@ -1,0 +1,7 @@
+Data is paired end so used trimmomatic paired end.
+Set the variable sra for the SRR names. Used a loop to use trimmomatic on each fastq.gz file in my RNA-seq directory and output as trimmed.fastq.gz in a separate directory, RNA-seq_trimmed.
+I used LEADING and TAILING to cut off reads at each end below a quality of 20.
+There was no adapter content in the FastQC Reports so I didn't cut adapters from the read.
+
+Ran fastqc on the trimmed files and output into another directory, RNA-seq_trimmed_fastqc.
+Copied the html files in RNA-seq_trimmed_fastqc to assignment3 directory.
