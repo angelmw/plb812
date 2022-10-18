@@ -5,3 +5,5 @@ There was no adapter content in the FastQC Reports so I didn't cut adapters from
 
 Ran fastqc on the trimmed files and output into another directory, RNA-seq_trimmed_fastqc.
 Copied the html files in RNA-seq_trimmed_fastqc to assignment3 directory.
+
+All of my html files were empty so I redid it with LEADING and TAILING of 10 and ILLUMINA for TruSeq3. I couldn't find what adapters were used but I'm guessing TruSeq3 based on the platform used and year.

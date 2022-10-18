@@ -1,0 +1,5 @@
+For indexing I used gffread to convert my gff file to gtf. I used HISAT2 to extract splice sites and exons from the gtf file. I built the index using those two files and my cds.fa file.
+
+Since my data is paired end, to align I used -1 and -2 to indicate the two files for each. I used samtools to convert to bam files. I also sorted them with samtools.
+
+I viewed the number of total reads, aligned reads and uniquely aligned reads with samtools. For unique I used q10.
