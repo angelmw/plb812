@@ -1,0 +1,6 @@
+I used the following (as an example) to extract the read counts for each sample, naming. Some samples had multiple run, so I chose one run for each.
+For the drought condition there were 6 samples but one didn't work, so I included 5. There were only 3 control samples.
+
+htseq-count -f bam -s reverse --counts_output=ctrl-3_counts ${HOME}/plb812/data/RNA-seq_alignment/SRR5448227.bam ${HOME}/plb812/data/St_Phytozome/annotation/St.gene_exons.gtf
+
+The number of differentially expressed genes with p-value <0.05 = 9589 
