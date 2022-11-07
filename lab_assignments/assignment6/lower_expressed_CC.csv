@@ -1,0 +1,166 @@
+"","GO.ID","Term","Annotated","Significant","Expected","Fisher","fdr"
+"1","GO:0005811","lipid droplet",8,5,0.9,"0.00037",0.06105
+"2","GO:0005576","extracellular region",40,11,4.5,"0.00308",0.2541
+"3","GO:0005787","signal peptidase complex",4,2,0.45,"0.02467",1
+"4","GO:0005938","cell cortex",25,5,2.81,"0.05265",1
+"5","GO:0099023","vesicle tethering complex",26,5,2.93,"0.05905",1
+"6","GO:1905368","peptidase complex",10,3,1.13,"0.07029",1
+"7","GO:0005789","endoplasmic reticulum membrane",39,4,4.39,"0.16220",1
+"8","GO:0031224","intrinsic component of membrane",237,31,26.68,"0.18231",1
+"9","GO:0140534","endoplasmic reticulum protein-containing...",9,2,1.01,"0.18607",1
+"10","GO:0005634","nucleus",179,19,20.15,"0.19986",1
+"11","GO:0005743","mitochondrial inner membrane",33,3,3.71,"0.23290",1
+"12","GO:0005746","mitochondrial respirasome",3,1,0.34,"0.25587",1
+"13","GO:0140535","intracellular protein-containing complex",51,6,5.74,"0.26151",1
+"14","GO:0005615","extracellular space",9,2,1.01,"0.26731",1
+"15","GO:0071944","cell periphery",55,8,6.19,"0.26872",1
+"16","GO:0005783","endoplasmic reticulum",67,8,7.54,"0.27508",1
+"17","GO:0009523","photosystem II",8,1,0.9,"0.27586",1
+"18","GO:1902494","catalytic complex",74,8,8.33,"0.28716",1
+"19","GO:0005840","ribosome",3,1,0.34,"0.29574",1
+"20","GO:0032993","protein-DNA complex",64,7,7.2,"0.29930",1
+"21","GO:0070469","respirasome",3,1,0.34,"0.30035",1
+"22","GO:0019866","organelle inner membrane",34,3,3.83,"0.31438",1
+"23","GO:0033588","elongator holoenzyme complex",3,1,0.34,"0.31861",1
+"24","GO:0043228","non-membrane-bounded organelle",137,15,15.42,"0.32040",1
+"25","GO:0043232","intracellular non-membrane-bounded organ...",137,15,15.42,"0.32040",1
+"26","GO:0044815","DNA packaging complex",67,7,7.54,"0.34687",1
+"27","GO:0000151","ubiquitin ligase complex",4,1,0.45,"0.39950",1
+"28","GO:0031226","intrinsic component of plasma membrane",4,1,0.45,"0.41845",1
+"29","GO:0005744","TIM23 mitochondrial import inner membran...",8,1,0.9,"0.42105",1
+"30","GO:0000786","nucleosome",64,7,7.2,"0.42170",1
+"31","GO:0005669","transcription factor TFIID complex",8,1,0.9,"0.47059",1
+"32","GO:0031984","organelle subcompartment",40,5,4.5,"0.47199",1
+"33","GO:0000502","proteasome complex",5,1,0.56,"0.47989",1
+"34","GO:0098797","plasma membrane protein complex",9,1,1.01,"0.48288",1
+"35","GO:0005773","vacuole",7,1,0.79,"0.49850",1
+"36","GO:0005667","transcription regulator complex",19,2,2.14,"0.50165",1
+"37","GO:1903293","phosphatase complex",15,2,1.69,"0.51334",1
+"38","GO:0005740","mitochondrial envelope",52,3,5.85,"0.53384",1
+"39","GO:0005875","microtubule associated complex",9,1,1.01,"0.55653",1
+"40","GO:0042175","nuclear outer membrane-endoplasmic retic...",39,4,4.39,"0.57767",1
+"41","GO:0005963","magnesium-dependent protein serine/threo...",15,2,1.69,"0.57785",1
+"42","GO:0000228","nuclear chromosome",10,1,1.13,"0.58315",1
+"43","GO:0055029","nuclear DNA-directed RNA polymerase comp...",13,1,1.46,"0.59491",1
+"44","GO:0000148","1,3-beta-D-glucan synthase complex",9,1,1.01,"0.64294",1
+"45","GO:0015630","microtubule cytoskeleton",22,1,2.48,"0.64706",1
+"46","GO:0030312","external encapsulating structure",9,1,1.01,"0.65851",1
+"47","GO:0005886","plasma membrane",21,2,2.36,"0.66802",1
+"48","GO:0031966","mitochondrial membrane",52,3,5.85,"0.67085",1
+"49","GO:0000785","chromatin",69,7,7.77,"0.67390",1
+"50","GO:0016591","RNA polymerase II, holoenzyme",13,1,1.46,"0.68421",1
+"51","GO:0110165","cellular anatomical entity",1177,132,132.5,"0.70975",1
+"52","GO:0043229","intracellular organelle",478,46,53.81,"0.73708",1
+"53","GO:0005643","nuclear pore",19,1,2.14,"0.74456",1
+"54","GO:1990234","transferase complex",32,3,3.6,"0.76225",1
+"55","GO:0012505","endomembrane system",106,10,11.93,"0.77525",1
+"56","GO:0090575","RNA polymerase II transcription regulato...",17,1,1.91,"0.79884",1
+"57","GO:0061695","transferase complex, transferring phosph...",13,1,1.46,"0.80464",1
+"58","GO:0000145","exocyst",25,5,2.81,"0.80769",1
+"59","GO:0043227","membrane-bounded organelle",353,32,39.74,"0.80992",1
+"60","GO:0043231","intracellular membrane-bounded organelle",353,32,39.74,"0.80992",1
+"61","GO:0098800","inner mitochondrial membrane protein com...",19,1,2.14,"0.81800",1
+"62","GO:0005794","Golgi apparatus",18,1,2.03,"0.83430",1
+"63","GO:0030880","RNA polymerase complex",13,1,1.46,"0.84671",1
+"64","GO:0098798","mitochondrial protein-containing complex",23,1,2.59,"0.87084",1
+"65","GO:0031981","nuclear lumen",32,2,3.6,"0.87899",1
+"66","GO:0098827","endoplasmic reticulum subcompartment",39,4,4.39,"0.88484",1
+"67","GO:0005635","nuclear envelope",21,1,2.36,"0.89397",1
+"68","GO:0005654","nucleoplasm",19,1,2.14,"0.89758",1
+"69","GO:0098796","membrane protein complex",77,5,8.67,"0.90075",1
+"70","GO:0140513","nuclear protein-containing complex",51,3,5.74,"0.90122",1
+"71","GO:0070013","intracellular organelle lumen",38,2,4.28,"0.90170",1
+"72","GO:0043233","organelle lumen",38,2,4.28,"0.90170",1
+"73","GO:0016020","membrane",613,62,69.01,"0.90986",1
+"74","GO:0005694","chromosome",90,8,10.13,"0.91044",1
+"75","GO:0009521","photosystem",29,1,3.26,"0.91334",1
+"76","GO:1905369","endopeptidase complex",5,1,0.56,"0.91667",1
+"77","GO:0043226","organelle",478,46,53.81,"0.93727",1
+"78","GO:0031974","membrane-enclosed lumen",38,2,4.28,"0.93977",1
+"79","GO:0031967","organelle envelope",73,4,8.22,"0.94453",1
+"80","GO:0005739","mitochondrion",61,3,6.87,"0.94474",1
+"81","GO:0005622","intracellular anatomical structure",662,66,74.52,"0.94785",1
+"82","GO:0034357","photosynthetic membrane",29,1,3.26,"0.95773",1
+"83","GO:0009579","thylakoid",30,1,3.38,"0.96028",1
+"84","GO:0005737","cytoplasm",281,24,31.63,"0.96174",1
+"85","GO:0032991","protein-containing complex",302,26,34,"0.96555",1
+"86","GO:0031090","organelle membrane",118,7,13.28,"0.97331",1
+"87","GO:0031975","envelope",73,4,8.22,"0.97350",1
+"88","GO:0005856","cytoskeleton",34,1,3.83,"0.98948",1
+"89","GO:0012511","monolayer-surrounded lipid storage body",8,5,0.9,"1.00000",1
+"90","GO:0005618","cell wall",9,1,1.01,"1.00000",1
+"91","GO:0016021","integral component of membrane",236,30,26.57,"1.00000",1
+"92","GO:0000428","DNA-directed RNA polymerase complex",13,1,1.46,"1.00000",1
+"93","GO:0005575","cellular_component",1217,137,137,"1.00000",1
+"94","GO:0008287","protein serine/threonine phosphatase com...",15,2,1.69,"1.00000",1
+"95","GO:0000159","protein phosphatase type 2A complex",15,2,1.69,"1.00000",1
+"96","GO:0000015","phosphopyruvate hydratase complex",4,0,0.45,"1.00000",1
+"97","GO:0000123","histone acetyltransferase complex",6,0,0.68,"1.00000",1
+"98","GO:0000139","Golgi membrane",11,0,1.24,"1.00000",1
+"99","GO:0000178","exosome (RNase complex)",4,0,0.45,"1.00000",1
+"100","GO:0000220","vacuolar proton-transporting V-type ATPa...",4,0,0.45,"1.00000",1
+"101","GO:0000275","mitochondrial proton-transporting ATP sy...",5,0,0.56,"1.00000",1
+"102","GO:0000276","mitochondrial proton-transporting ATP sy...",5,0,0.56,"1.00000",1
+"103","GO:0000439","transcription factor TFIIH core complex",4,0,0.45,"1.00000",1
+"104","GO:0000775","chromosome, centromeric region",9,0,1.01,"1.00000",1
+"105","GO:0000796","condensin complex",3,0,0.34,"1.00000",1
+"106","GO:0000808","origin recognition complex",3,0,0.34,"1.00000",1
+"107","GO:0000930","gamma-tubulin complex",10,0,1.13,"1.00000",1
+"108","GO:0005674","transcription factor TFIIF complex",3,0,0.34,"1.00000",1
+"109","GO:0005741","mitochondrial outer membrane",18,0,2.03,"1.00000",1
+"110","GO:0005742","mitochondrial outer membrane translocase...",4,0,0.45,"1.00000",1
+"111","GO:0005753","mitochondrial proton-transporting ATP sy...",10,0,1.13,"1.00000",1
+"112","GO:0005759","mitochondrial matrix",6,0,0.68,"1.00000",1
+"113","GO:0005774","vacuolar membrane",6,0,0.68,"1.00000",1
+"114","GO:0005777","peroxisome",15,0,1.69,"1.00000",1
+"115","GO:0005778","peroxisomal membrane",8,0,0.9,"1.00000",1
+"116","GO:0005779","integral component of peroxisomal membra...",8,0,0.9,"1.00000",1
+"117","GO:0005784","Sec61 translocon complex",4,0,0.45,"1.00000",1
+"118","GO:0005791","rough endoplasmic reticulum",4,0,0.45,"1.00000",1
+"119","GO:0005801","cis-Golgi network",3,0,0.34,"1.00000",1
+"120","GO:0005815","microtubule organizing center",10,0,1.13,"1.00000",1
+"121","GO:0005819","spindle",3,0,0.34,"1.00000",1
+"122","GO:0005829","cytosol",6,0,0.68,"1.00000",1
+"123","GO:0005885","Arp2/3 protein complex",4,0,0.45,"1.00000",1
+"124","GO:0005887","integral component of plasma membrane",3,0,0.34,"1.00000",1
+"125","GO:0005956","protein kinase CK2 complex",5,0,0.56,"1.00000",1
+"126","GO:0005960","glycine cleavage complex",3,0,0.34,"1.00000",1
+"127","GO:0008290","F-actin capping protein complex",4,0,0.45,"1.00000",1
+"128","GO:0009507","chloroplast",5,0,0.56,"1.00000",1
+"129","GO:0009522","photosystem I",17,0,1.91,"1.00000",1
+"130","GO:0009536","plastid",5,0,0.56,"1.00000",1
+"131","GO:0015629","actin cytoskeleton",10,0,1.13,"1.00000",1
+"132","GO:0016469","proton-transporting two-sector ATPase co...",16,0,1.8,"1.00000",1
+"133","GO:0016471","vacuolar proton-transporting V-type ATPa...",6,0,0.68,"1.00000",1
+"134","GO:0019867","outer membrane",22,0,2.48,"1.00000",1
+"135","GO:0030684","preribosome",4,0,0.45,"1.00000",1
+"136","GO:0030867","rough endoplasmic reticulum membrane",4,0,0.45,"1.00000",1
+"137","GO:0031011","Ino80 complex",4,0,0.45,"1.00000",1
+"138","GO:0031231","intrinsic component of peroxisomal membr...",8,0,0.9,"1.00000",1
+"139","GO:0031248","protein acetyltransferase complex",6,0,0.68,"1.00000",1
+"140","GO:0031300","intrinsic component of organelle membran...",10,0,1.13,"1.00000",1
+"141","GO:0031301","integral component of organelle membrane",10,0,1.13,"1.00000",1
+"142","GO:0031903","microbody membrane",8,0,0.9,"1.00000",1
+"143","GO:0031968","organelle outer membrane",18,0,2.03,"1.00000",1
+"144","GO:0032040","small-subunit processome",4,0,0.45,"1.00000",1
+"145","GO:0033176","proton-transporting V-type ATPase comple...",6,0,0.68,"1.00000",1
+"146","GO:0033177","proton-transporting two-sector ATPase co...",9,0,1.01,"1.00000",1
+"147","GO:0033178","proton-transporting two-sector ATPase co...",7,0,0.79,"1.00000",1
+"148","GO:0033179","proton-transporting V-type ATPase, V0 do...",4,0,0.45,"1.00000",1
+"149","GO:0042579","microbody",15,0,1.69,"1.00000",1
+"150","GO:0045259","proton-transporting ATP synthase complex",10,0,1.13,"1.00000",1
+"151","GO:0045261","proton-transporting ATP synthase complex...",5,0,0.56,"1.00000",1
+"152","GO:0045263","proton-transporting ATP synthase complex...",5,0,0.56,"1.00000",1
+"153","GO:0070461","SAGA-type complex",5,0,0.56,"1.00000",1
+"154","GO:0070603","SWI/SNF superfamily-type complex",4,0,0.45,"1.00000",1
+"155","GO:0071256","translocon complex",4,0,0.45,"1.00000",1
+"156","GO:0097346","INO80-type complex",4,0,0.45,"1.00000",1
+"157","GO:0098588","bounding membrane of organelle",47,0,5.29,"1.00000",1
+"158","GO:0098687","chromosomal region",9,0,1.01,"1.00000",1
+"159","GO:0098799","outer mitochondrial membrane protein com...",4,0,0.45,"1.00000",1
+"160","GO:0099080","supramolecular complex",4,0,0.45,"1.00000",1
+"161","GO:1902493","acetyltransferase complex",6,0,0.68,"1.00000",1
+"162","GO:1904949","ATPase complex",4,0,0.45,"1.00000",1
+"163","GO:1905354","exoribonuclease complex",4,0,0.45,"1.00000",1
+"164","GO:1990204","oxidoreductase complex",4,0,0.45,"1.00000",1
+"165","GO:1990904","ribonucleoprotein complex",7,0,0.79,"1.00000",1

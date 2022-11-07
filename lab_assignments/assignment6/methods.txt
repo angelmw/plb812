@@ -1,0 +1,5 @@
+I formatted GO terms from the phytozome annotation file.
+
+To format my higher expressed genes in R I used a padj < 0.05 and log2FoldChange >= 1. For the lower expressed genes I used the same padj and log2FC of <= -1.
+
+For BP I had 599 GO terms for my higher and lower expressed files. For MF there's 515 and for CC there's 165.
