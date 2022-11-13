@@ -1,0 +1,3 @@
+I downloaded the SRA file, converted it to fastq, and assessed the reads with fastqc. Using trimmomatic I trimmed the ends of the reads with LEADING:25 and TRAILING:25, then reassessed with fastqc. 
+
+I downloaded the TAIR10_chr_all.fas.gz file from tair, which I used to make the index with bwa. I used bwa mem to align the reads and samtools to sort them and output as a bam file. I used samtools flagstat to output a file named mapping_statistics.flagstat.
