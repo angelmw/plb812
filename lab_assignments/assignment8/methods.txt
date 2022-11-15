@@ -1,0 +1,5 @@
+I used Picard to mark duplicates and add read groups. 
+
+I tried using the .fas reference file to call variants with the haplotype caller, which wouldn't work.
+
+I made a sequence dictionary with gatk CreateSequenceDictionary and an index with samtools faidx. I also indexed the bam file to make a bai file. Making these other files allowed the haplotype caller to work.
