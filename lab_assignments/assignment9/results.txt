@@ -1,0 +1,6 @@
+Line count: 17409 
+
+
+ grep AT5G13930 Phylogenetic_Hierarchical_Orthogroups/N0.tsv
+N0.HOG0012416   OG0011799       -       AT5G13930.1     evm_27.model.AmTr_v1.0_scaffold00039.31 LOC_Os11g32650.1
+

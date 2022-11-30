@@ -1,0 +1,3 @@
+I had to uninstall and reinstall diamond and remove the U in rU for python for orhtofinder to work.
+
+I used wc -l to count the number of lines in the N0.tsv file. There wasn't a HAESA ortholog but there was for Chalcone Synthae.
